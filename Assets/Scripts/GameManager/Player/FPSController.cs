@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class FPSController : MonoBehaviour
 {
     [Header("Death Effects")]
+    //assign your fire effect prefab here
     public GameObject fireEffect;
 
     [Header("UI Door Settings")]
