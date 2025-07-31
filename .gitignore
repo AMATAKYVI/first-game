@@ -1,0 +1,19 @@
+# Folders to ignore
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+MemoryCaptures/
+UserSettings/
+.vs/
+SwitchIL2CPPCache/
+SwitchIL2CPPStats/
+
+# Files to ignore
+*.csproj
+*.sln
+*.userprefs
+ProjectSettings.asset
+*.unityproj
